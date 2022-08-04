@@ -1,0 +1,17 @@
+.body {
+  background-color: white;
+}
+
+.banner {
+  width: 1800px;
+  height: 200px;
+}
+
+.button {
+  width: 200px;
+  height: 150px;
+  display: flex;
+  position: relative;
+  left: 30px;
+  top: -180px;
+}
